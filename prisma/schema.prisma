@@ -26,5 +26,6 @@ model Task {
   createdAt DateTime @default(now())
 
   // Optional intially since no update occured
+  // Note: Could make this createdAt
   updatedAt DateTime?
 }

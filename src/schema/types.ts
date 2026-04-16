@@ -1,0 +1,1 @@
+export type { Task } from "../generated/prisma/client.js";
