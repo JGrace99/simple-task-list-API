@@ -1,0 +1,25 @@
+{
+  "name": "simple-task-list-api",
+  "version": "1.0.0",
+  "description": "Take home coding assignment for LUSH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGrace99/simple-task-list-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JGrace99/simple-task-list-API/issues"
+  },
+  "homepage": "https://github.com/JGrace99/simple-task-list-API#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}
