@@ -11,10 +11,10 @@ A GraphQL API for managing a simple task list, supporting full CRUD operations w
 - Prisma
 
 ## Setup
-npm installl
-cp .env.example .env --> DATABASE_URL = ""
-npx prisma generate
-npx prisma migrate deploy
-npm run dev
+- npm installl
+- cp .env.example .env --> DATABASE_URL = ""
+- npx prisma generate
+- npx prisma migrate deploy
+- npm run dev
 
-Server runs at http://localhost:4000/graphql
+- Server runs at http://localhost:4000/graphql
