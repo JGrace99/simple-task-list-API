@@ -27,5 +27,5 @@ model Task {
 
   // Optional intially since no update occured
   // Note: Could make this createdAt
-  updatedAt DateTime?
+  updatedAt DateTime? @updatedAt
 }
